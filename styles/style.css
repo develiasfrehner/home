@@ -43,6 +43,15 @@ div.appsection {
   align-items: center;
 }
 
+div.appsection:hover {
+  background-image: linear-gradient(to bottom right, #ffd759, #fcbc44, #db5332);
+  padding: 15px;
+  margin: 30px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
 div.appsection2 {
   background-image: linear-gradient(to top right, #81ecec, #55efc4, #a29bfe);
   padding: 15px;
@@ -52,8 +61,26 @@ div.appsection2 {
   align-items: center;
 }
 
+div.appsection2:hover {
+  background-image: linear-gradient(to top right, #55cfed, #2bf091, #7a70ff);
+  padding: 15px;
+  margin: 30px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
 div.appsection3 {
   background-image: linear-gradient(to top left, #6c5ce7, #fd79a8, #e17055);
+  padding: 15px;
+  margin: 30px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
+div.appsection3:hover {
+  background-image: linear-gradient(to top left, #2f18db, #fa3271, #db4332);
   padding: 15px;
   margin: 30px;
   border-radius: 20px;
