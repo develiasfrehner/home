@@ -104,4 +104,13 @@ a.app_name {
   font-family: 'Roboto', sans-serif;
 }
 
+div.socialmedia {
+  background-image: linear-gradient(to top left, #2f18db, #fa3271, #db4332);
+  padding: 15px;
+  margin: 30px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
 /* ist ja nur ein kommentar*/
