@@ -1,4 +1,4 @@
-/*@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 /* colors: https://flatuicolors.com/palette/us */
 
@@ -19,6 +19,7 @@ p.develiasfrehner {
   font-family: sans-serif;
   color: white;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 img.elias_memoji {
@@ -35,21 +36,21 @@ img.elias_memoji {
 
 div.appsection {
   background-image: linear-gradient(to bottom right, #ffeaa7, #fdcb6e, #e17055);
-  padding: 20px;
+  padding: 15px;
   margin: 30px;
   border-radius: 20px;
 }
 
 div.appsection2 {
   background-image: linear-gradient(to top right, #81ecec, #55efc4, #a29bfe);
-  padding: 20px;
+  padding: 15px;
   margin: 30px;
   border-radius: 20px;
 }
 
 div.appsection3 {
   background-image: linear-gradient(to top left, #6c5ce7, #fd79a8, #e17055);
-  padding: 20px;
+  padding: 15px;
   margin: 30px;
   border-radius: 20px;
 }
@@ -58,13 +59,15 @@ div.appsection3 {
 
 img.app_logo {
   border-radius: 10px;;
-  height: 50px;
+  height: 70px;
 }
 
 a.app_name {
   color: black;
   text-decoration: none;
-  margin-left: 80px;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* ist ja nur ein kommentar*/
