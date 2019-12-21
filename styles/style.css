@@ -39,6 +39,8 @@ div.appsection {
   padding: 15px;
   margin: 30px;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
 }
 
 div.appsection2 {
@@ -46,6 +48,8 @@ div.appsection2 {
   padding: 15px;
   margin: 30px;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
 }
 
 div.appsection3 {
@@ -53,6 +57,8 @@ div.appsection3 {
   padding: 15px;
   margin: 30px;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
 }
 
 /*__________________________________________________*/
@@ -66,6 +72,7 @@ a.app_name {
   color: black;
   text-decoration: none;
   margin-left: 20px;
+  margin-right: 20px;
   font-size: 22px;
   font-family: 'Roboto', sans-serif;
 }
