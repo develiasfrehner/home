@@ -34,11 +34,27 @@ img.elias_memoji {
 /*__________________________________________________*/
 
 div.appsection {
-  background-color: white;
+  background-image: linear-gradient(to bottom right, #ffeaa7, #fdcb6e, #e17055);
   padding: 20px;
   margin: 30px;
   border-radius: 20px;
 }
+
+div.appsection2 {
+  background-image: linear-gradient(to top right, #81ecec, #55efc4, #a29bfe);
+  padding: 20px;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+div.appsection3 {
+  background-image: linear-gradient(to top left, #6c5ce7, #fd79a8, #e17055);
+  padding: 20px;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+/*__________________________________________________*/
 
 img.app_logo {
   border-radius: 10px;;
