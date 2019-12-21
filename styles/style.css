@@ -104,13 +104,13 @@ a.app_name {
   font-family: 'Roboto', sans-serif;
 }
 
-div.socialmedia {
-  background-image: linear-gradient(to top left, #2f18db, #fa3271, #db4332);
-  padding: 15px;
+img.socialmedia_icon {
   margin: 30px;
-  border-radius: 20px;
-  display: flex;
-  align-items: center;
+  height: 30px;
+}
+
+div.socialmedia {
+  text-align: center;
 }
 
 /* ist ja nur ein kommentar*/
